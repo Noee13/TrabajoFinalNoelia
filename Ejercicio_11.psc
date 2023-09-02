@@ -1,13 +1,13 @@
-/// Escribir un programa que calcule el ·rea de diferentes figuras.
-///Primero muestra un men˙ que pregunta de quÈ figura quiere
-///calcular el ·rea (cuadrado, rect·ngulo, tri·ngulo), y luego pida por
-///pantalla los datos necesarios seg˙n el caso, dando como resultado
-///el ·rea correspondiente.
-/// ·rea del cuadrado: lado al cuadrado.
-/// ·rea del rect·ngulo: base por altura.
-/// ·rea del tri·ngulo: base por altura sobre 2.
+/// Escribir un programa que calcule el √°rea de diferentes figuras.
+///Primero muestra un men√∫ que pregunta de qu√© figura quiere
+///calcular el √°rea (cuadrado, rect√°ngulo, tri√°ngulo), y luego pida por
+///pantalla los datos necesarios seg√∫n el caso, dando como resultado
+///el √°rea correspondiente.
+/// √°rea del cuadrado: lado al cuadrado.
+/// √°rea del rect√°ngulo: base por altura.
+/// √°rea del tri√°ngulo: base por altura sobre 2.
 
-Algoritmo Ejercicio_11
+Algoritmo Ejercicio_calculo del area
 	
 	Definir figura Como caracter
 	Definir lado, base, altura Como Real
